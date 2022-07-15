@@ -1,4 +1,4 @@
-** # currencyConveterJava **
+# **currencyConveterJava **
 
 This small personal project is for me to have some idea on developing a desktop GUI java program that connnects to an API and a database.
 
